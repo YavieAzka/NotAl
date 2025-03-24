@@ -50,10 +50,10 @@ ALGORITMA
 bestgirl <- "furina"
 output("Who is the best girl?")
 input(waifu)
-if (s = waifu) then
-  output("You're absolutely correct")
+if (waifu = bestgirl) then
+    output("You're absolutely correct")
 else
-  output("Karbit")
+    output("Karbit")
 ```
 
 ## About Developer
