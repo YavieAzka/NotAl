@@ -12,7 +12,7 @@ This language entirely follows the structure and conventions outlined in the **"
 ## Installation
 1. Make sure that you already have python installed in your device.
 2. After downloading the 'notal.py' file, make sure that the file is located in the same folder as your .notal file.
-3. run your .notal file by simply write: `python notal.py yourfilename.notal`
+3. Run your .notal file by simply write: `python notal.py yourfilename.notal`
 
 ## Example
 hello.notal
