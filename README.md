@@ -57,5 +57,5 @@ else
 ```
 
 ## About Developer
-NotAl is developed and maintained by **Yavie Azka *de Fontaine* **, a Computer Science undergraduate at **Institut Teknologi Bandung (ITB)**. This project was created to assist students taking **Algorithm and Programming 1** in running their **Notasi Algoritma** programs, ensuring they follow the correct syntax and logic. NotAl is still under active development, and I’m always open to suggestions and questions. Feel free to reach out to me on **Twitter**: [@yveakzontwt](https://twitter.com/yveakzontwt).
+NotAl is developed and maintained by Yavie Azka *de Fontaine*, a Computer Science undergraduate at **Institut Teknologi Bandung (ITB)**. This project was created to assist students taking **Algorithm and Programming 1** in running their **Notasi Algoritma** programs, ensuring they follow the correct syntax and logic. NotAl is still under active development, and I’m always open to suggestions and questions. Feel free to reach out to me on **Twitter**: [@yveakzontwt](https://twitter.com/yveakzontwt).
 
