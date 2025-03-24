@@ -6,9 +6,9 @@ This language entirely follows the structure and conventions outlined in the **"
 ## Features
 - Basic I/O: `input()`, `output()`
 - assignment: `<-`
-- Arithmetic operations
+- Arithmetic operations `+`, `-`, `*`, `/`, `%`
 - Control flow: `if`, `else`, `for` (coming soon), `while` (coming soon) 
-- Data types: integer, float, string, boolean `+`, `-`, `*`, `/`, `%`
+- Data types: integer, float, string, boolean 
 ## Installation
 1. Make sure that you already have python installed in your device.
 2. After downloading the 'notal.py' file, make sure that the file is located in the same folder as your .notal file.
@@ -37,6 +37,7 @@ ALGORITMA
 input(a)
 input(b)
 c <- a + b {c = a + b}
+output(c)
 ```
 bestgirl.notal
 ```notal
